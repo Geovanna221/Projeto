@@ -8,7 +8,7 @@ Requisitos funcionais:
 * Avaliação de motoristas
 * Chat de reclamação
 * Formulário
-* 
+  
 Requisitos não funcionais
 * O aplicativo deve abrir de forma rápida
 * Processamento rápido
